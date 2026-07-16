@@ -1,7 +1,9 @@
 .hero-section {
     background: url(../../assets/images/hero) no-repeat center;
+    background-size: cover;
     height: 500px;
     position: relative;
+    border-radius: 
 }
 
 .hero-overlay {
